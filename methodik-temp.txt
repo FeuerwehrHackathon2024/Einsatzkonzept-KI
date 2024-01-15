@@ -1,0 +1,48 @@
+1. Zeige die wesentlichen Unterschiede der beigefügten Dokumente auf bezüglich der folgenden Punkte:
+"""
+1. Sichtung
+2. Patientenablage
+
+
+
+1. Der Gliederungspunkt """Begriffsdefinitonen""" soll eine sehr kurze Definition der wichtigsten Begriffe für die Feuerwehreinsatzleiterin enthalten.
+2. Der Gleiderungspunkt """Einsatzgrundsätze""" soll die wichtigsten Sicherheitshinweise und Handlungshinweise für die Feuerwehreinsatzleiterin beschreiben.
+3. Der Gliederungspunkt """Einsatzaufträge""" soll die wichtigsten abzuarbeitenden Aufgaben für die Feuerwehreinsatzleiterin enthalten.
+4. Der Gleiderungspunkt """Material""" soll die wesentlichen Materialien zum Erledigenden der Einsatzaufträge aufzeigen.
+5. ERSTELLE auf Basis der vorhanden Informationen eine Zusammenfassung mit folgender Gliederung:
+"""
+Begriffsdefinitionen
+Einsatzgrundsätze
+Einsatzaufträge
+Material
+"""
+
+
+
+
+"""
+1.	Begriffsdefinitionen
+2.	Brandschutztechnische Infrastruktur, Flucht- und Rettungswege
+3.	Alarmierung
+4.	Anfahrt
+5.	Kommunikation
+6.	Einsatzführung
+7.	Einsatztaktische Grundsätze in Straßentunneln
+8.	Absuchen und Retten	
+9.	Entrauchung und Belüftung
+"""
+3. Die Zusammenfassung soll für eine Feuerwehr Einsatzleiterin fungieren.
+4. Jeder Gliederungspunkt soll maximal 10 Sätze enthalten.
+
+
+
+
+
+
+6. ERSTELLE auf Grundlage der erstellten Zusammenfassung ein Dokument mit der folgenden Struktur:
+"""
+Einsatzgrundsätze
+Einsatzaufträge
+Material
+"""
+

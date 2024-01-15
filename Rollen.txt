@@ -1,0 +1,3 @@
+Ein Zugführer braucht Informationen, mit denen er taktisch Feuerwehreinheiten koordinieren kann.
+
+Ein Gruppenführer braucht Informationen, die ihm Hinweise zu Löscheinrichtungen und Zugängen zum Tunnel geben.
